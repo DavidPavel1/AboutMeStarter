@@ -27,6 +27,6 @@ public class AboutMe {
         // Printing second part
         System.out.println("Some time passes...");
         System.out.println("I am now " + myAge2 + " years old.");
-        System.out.println("I have grown " + myHeightInMetres2 + " m tall.");
+        System.out.println("I have grown and am " + myHeightInMetres2 + " m tall.");
     }
 }
