@@ -19,8 +19,12 @@ public class AboutMe {
         myAge = 19;
         myHeightInMetres = 1.91;
         
+        int myAge2 = 19;
+        double myHeightInMetres2 = 1.91;
+        
+        
         System.out.println("Some time passes...");
-        System.out.println("I am now " + myAge + " years old.");
-        System.out.println("I have grown " + myHeightInMetres + " m tall");
+        System.out.println("I am now " + myAge2 + " years old.");
+        System.out.println("I have grown " + myHeightInMetres2 + " m tall");
     }
 }
